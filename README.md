@@ -24,6 +24,7 @@ A web application that identifies whisky labels through images captured by webca
    - Create an account on [Google Cloud Platform](https://cloud.google.com/)
    - Enable the Google Cloud Vision API
    - Create an API key
+   - For a detailed step-by-step guide on how to obtain your API Key, check the [full tutorial here](./TUTORIAL_GOOGLE_VISION.md).
    - Create a `.env` file in the project root following the template in `.env.example`:
    ```
    VITE_GOOGLE_CLOUD_VISION_API_KEY=your_api_key_here
