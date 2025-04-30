@@ -1,0 +1,50 @@
+Whisky Goggles
+Overview
+Develop a computer vision system that can scan whisky bottle labels and match them to BAXUS's database of 500 bottles, allowing users to quickly identify bottles and record pricing information at liquor stores. 
+
+Objectives
+Create a computer vision model that can recognize whisky bottle labels from photos
+
+Match identified labels to bottles in the BAXUS dataset of 500 bottles
+
+Technical Requirements
+Core Functionality
+Label Detection & Recognition:
+
+Process images of whisky bottle labels
+
+Extract key visual features for identification
+
+Match labels to the corresponding bottles in the BAXUS dataset
+
+Bottle Identification:
+
+Achieve high accuracy matching to the 500-bottle dataset
+
+Handle variations in lighting, angle, and partial labels
+
+Provide confidence scores for matches
+
+Technical Specifications
+Computer Vision Approach:
+
+Implement image recognition for whisky labels
+
+Use feature matching, OCR, or other appropriate techniques
+
+Output Format:
+
+Structured data of identified bottles with confidence scores
+
+Deliverables
+A working label scanning and bottle identification system
+
+Code repository with clear implementation details and instructions
+
+Demo showing the system identifying bottles from the dataset
+
+Resources
+Dataset of 501 bottles to use as the recommendation pool, link this: https://docs.google.com/spreadsheets/d/1yXIJo5f00clyrFHlRyKuIwrNCQw_cNcoVbSvtKO_bTs/edit?gid=0#gid=0
+
+Additional Notes
+Focus on creating a practical tool that works reliably in typical liquor store conditions. While advanced features like multi-bottle detection are welcome, priority should be given to accurate single-bottle identification and a streamlined user experience for recording pricing information.
