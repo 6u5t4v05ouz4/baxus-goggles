@@ -18,7 +18,7 @@ A web application that identifies whisky labels through images captured by webca
 1. Clone the repository:
    ```
    git clone https://github.com/6u5t4v05ouz4/baxus-goggles.git
-   cd whisky-baxus-goggles
+   cd baxus-goggles
    ```
 
 2. Install dependencies:
