@@ -315,7 +315,7 @@ function App() {
             <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'center', width: '100%' }}>
               <img src={Icon128} alt="Logo" style={{ height: 40, marginRight: 16 }} />
               <Typography variant="h6" component="div">
-                Whisky Goggles
+                BAXUS GOGGLES
               </Typography>
             </Box>
           </Box>
