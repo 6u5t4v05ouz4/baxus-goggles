@@ -30,5 +30,3 @@ This tutorial teaches you how to create a project on Google Cloud and obtain an 
 ## Done!
 
 Now you can use your API key to access the Google Vision API in your projects.
-
----
