@@ -83,4 +83,7 @@ A web application that identifies whisky labels through images captured by webca
 
 ## License
 
-[Insert license information]
+MIT License
+
+Developed by _Grottan City Lab_
+
