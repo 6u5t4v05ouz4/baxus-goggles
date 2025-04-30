@@ -1,3 +1,9 @@
+<div align="center">
+
+![Baxus Goggles Icon](src/icons/baxus-goggles-icon.png)
+
+</div>
+
 # Whisky Baxus Goggles
 
 A web application that identifies whisky labels through images captured by webcam using the Google Cloud Vision API.
